@@ -4,4 +4,4 @@ Tank game created in unreal course to get  mastery of unreal. Tank Game, 1 v. AI
 This readme will be updated with the progress of the game with simple updates over each version that's uploaded. 
 
 ## Updates
-     *1: Created Repository.  No game information, just a read me.
+     * 1: Created Repository.  No game information, just a read me.
